@@ -9,7 +9,6 @@ export default defineConfig({
       input: {
         main: 'index.html',
         bookDetail: 'book-detail.html',
-        library: 'library.html'
       }
     }
   },
